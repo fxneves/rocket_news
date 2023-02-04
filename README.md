@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 
 <h1>Sobre o Desafio</h2>
-<p align="center">O Rocketnews faz parte de uma série de desafios proposto pela <a href="https://rocketseat.com.br">rocketSeat</a>, a fim de pôr em prática o conteúdo absorsivo pela trilha discover.</p>
+<p>O Rocketnews faz parte de uma série de desafios proposto pela <a href="https://rocketseat.com.br">rocketSeat</a>, a fim de pôr em prática o conteúdo absorsivo pela trilha discover.</p>
 <p>O objetivo desse desafio é criar uma página para se inscrever em leads e newsletters!</p>
 
 <h2>Sobre os desafios da RocketSeat</h2>
